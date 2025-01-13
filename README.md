@@ -2,7 +2,7 @@
 
 This project focuses on predicting diabetes in individuals using machine learning models. The task was conducted as part of the **Data Science and Artificial Intelligence (DSAI)** course at **HTL Wiener Neustadt**. The objective was to build and evaluate neural networks for classification, applying different methods to achieve high accuracy and reliable results.
 
-## Developers
+## Devs
 Yasin Sahin (@YassinoZoldyck), Sven Oberwalder (@Sormy23)
 
 ## Task Description
